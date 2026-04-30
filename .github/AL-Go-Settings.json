@@ -1,8 +1,9 @@
 {
-  "MicrosoftTelemetryConnectionString": "",
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/2b21a3d4898b539f1b6d1e5c35abceae233cb59b/.Modules/settings.schema.json",
+  "MicrosoftTelemetryConnectionString": "",
   "doNotPublishApps": true,
   "templateUrl": "https://github.com/businesscentralapps/tmpTNmjxr-PTE@main",
   "useCompilerFolder": true,
-  "type": "PTE"
+  "type": "PTE",
+  "templateSha": "b40e78d7cce65a8aeaa1afec14743e1dbb349fc3"
 }
